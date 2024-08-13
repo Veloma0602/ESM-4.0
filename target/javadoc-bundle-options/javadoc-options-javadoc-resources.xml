@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javadocOptions>
+  <docletArtifacts>
+    <docletArtifact />
+  </docletArtifacts>
+  <tagletArtifacts>
+    <tagletArtifact />
+  </tagletArtifacts>
+  <links>
+    <link>http://biolemmatizer.sourceforge.net/apidocs/</link>
+    <link>http://download.oracle.com/javase/6/docs/api/</link>
+    <link>http://junit.sourceforge.net/javadoc/</link>
+  </links>
+  <javadocResourcesDirectory>src/main/javadoc</javadocResourcesDirectory>
+</javadocOptions>
